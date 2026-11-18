@@ -1,0 +1,6 @@
+{
+  "name": "lib-app20",
+  "version": "1.6.3",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
